@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-[assembly: AssemblyTitle("Math")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("MazeFire.Math")]
+[assembly: AssemblyDescription("Funções Matemáticas")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Math")]
+[assembly: AssemblyCompany("Agostinho da Silva Milagres")]
+[assembly: AssemblyProduct("MazeFire.Math")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
