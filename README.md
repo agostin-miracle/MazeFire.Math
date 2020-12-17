@@ -1,0 +1,2 @@
+# MazeFire.Math
+Funções Matemáticas
